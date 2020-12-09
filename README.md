@@ -41,6 +41,7 @@
 ---
 
 [![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaManikanth2810&show_icons=true&title_color=22d1ee&bg_color=0e153a&text_color=e2f3f5&icon_color=22d1ee)](https://github.com/AdityaManikanth2810?tab=repositories)
+
 ---
 
 ## Recent/ Ongoing Courses:
