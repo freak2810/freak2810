@@ -38,6 +38,10 @@
 ![VS Code](./assets/img/VSCode.svg)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
+---
+[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaManikanth2810)](https://github.com/AdityaManikanth2810/github-readme-stats)
+---
+
 ## Recent/ Ongoing Courses:
 
 - [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
