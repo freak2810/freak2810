@@ -82,7 +82,7 @@
 [twitter-link]: https://twitter.com/rao_manikanth
 [linkedin-link]: https://www.linkedin.com/in/aditya-manikanth-rao-11874819a/
 [gfg-link]: https://auth.geeksforgeeks.org/user/freak2810/practice/
-[hackerank-link]: https://www.hackerrank.com/adityamanikanth
+[hackerank-link]: https://www.hackerrank.com/freak2810
 
 ---
 
