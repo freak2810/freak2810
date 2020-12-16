@@ -40,9 +40,16 @@
 
 ---
 
-[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaManikanth2810&show_icons=true&bg_color=0e153a&title_color=e2f3f5&text_color=e2f3f5&icon_color=e2f3f5)](https://github.com/AdityaManikanth2810?tab=repositories)
+<!-- [![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaManikanth2810&show_icons=true&bg_color=0e153a&title_color=e2f3f5&text_color=e2f3f5&icon_color=e2f3f5)](https://github.com/AdityaManikanth2810?tab=repositories)
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManikanth2810&layout=compact&title_color=e2f3f5&bg_color=0e153a&text_color=e2f3f5)](https://github.com/AdityaManikanth2810?tab=repositories)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManikanth2810&layout=compact&title_color=e2f3f5&bg_color=0e153a&text_color=e2f3f5)](https://github.com/AdityaManikanth2810?tab=repositories) -->
+
+<a href="https://github.com/AdityaManikanth2810?tab=repositories">
+  <img align="center" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaManikanth2810&show_icons=true&bg_color=0e153a&title_color=e2f3f5&text_color=e2f3f5&icon_color=e2f3f5" />
+</a>
+<a href="https://github.com/AdityaManikanth2810?tab=repositories">
+  <img align="center" alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManikanth2810&layout=compact&title_color=e2f3f5&bg_color=0e153a&text_color=e2f3f5" />
+</a>
 
 ---
 
