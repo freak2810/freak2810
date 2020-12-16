@@ -70,3 +70,13 @@
 [linkedin-link]: https://www.linkedin.com/in/aditya-manikanth-rao-11874819a/
 [gfg-link]: https://auth.geeksforgeeks.org/user/freak2810/practice/
 [hackerank-link]: https://www.hackerrank.com/adityamanikanth
+
+
+## 🐾 Next Steps:
+
+Since you have made it till the end (almost), why dont you show me some love by
+
+- 👨🏼‍🏫 - Suggest or Mentor me so I can get better at what I do.
+- 🖥️ - Offer some work maybe.
+- 📣 - Follow me on Github and give a star to my projects that you liked.
+- 🤝🏼 - DM me on LinkedIn to connect or just Email.
