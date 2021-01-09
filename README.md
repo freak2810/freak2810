@@ -60,7 +60,7 @@
 
 ## Recent/ Ongoing Courses:
 
-- [Namaste 🙏 JavaScript by Akshay Saini(Youtube)][javascript-youtube]
+- [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
 - [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
 - [Full-Stack Web Development with React Specialization (Coursera)][react-fullstack-coursera]
 
