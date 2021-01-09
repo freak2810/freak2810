@@ -15,7 +15,6 @@
 
 - 🧑‍🤝‍🧑 I love connecting with different people❤️.
 
-<!-- -💬 I speak Telugu, Hindi and English -->
 
 ## Tools and Technologies:
 
@@ -61,12 +60,13 @@
 
 ## Recent/ Ongoing Courses:
 
+- [Namaste 🙏 JavaScript by Akshay Saini(Youtube)][javascript-youtube]
 - [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
-- [React JS Tutorial by Bitfumes (Youtube)][react-youtube]
 - [Full-Stack Web Development with React Specialization (Coursera)][react-fullstack-coursera]
 
 ## Connect with me:
-
+<p align="center">
+  
 [<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail-id]
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin-link]
 [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter-link]
@@ -74,8 +74,10 @@
 [<img src="https://img.shields.io/badge/geeksforgeeks-5FB709?style=for-the-badge&logo=GeeksForGeeks&logoColor=white">][gfg-link]
 [<img src="https://img.shields.io/badge/hackerank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">][hackerank-link]
 
+</p>
+
 [nodejs-udemy]: https://www.udemy.com/course/nodejs-the-complete-guide/
-[react-youtube]: https://www.youtube.com/watch?v=I6tbhNUU96Y&t=15817s&ab_channel=Bitfumes
+[javascript-youtube]: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 [react-fullstack-coursera]: https://www.coursera.org/specializations/full-stack-react
 [gmail-id]: mailto:adityamanikanthrao@gmail.com
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
@@ -93,4 +95,4 @@ Since you have made it till the end (almost), why dont you show me some love by
 - 👨🏼‍🏫 - Suggest or Mentor me so I can get better at what I do.
 - 🖥️ - Offer some work maybe.
 - 📣 - Follow me on Github and give a star to my projects that you liked.
-- 🤝🏼 - DM me on LinkedIn to connect or just Email.
+- 🤝🏼 - DM me on LinkedIn to connect or ... just Email.
