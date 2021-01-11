@@ -1,4 +1,4 @@
-![Aditya](./assets/img/aditya.png)
+[<img alt="Aditya" src="./assets/img/aditya.png" />](https://aditya2810.me)
 
 <p align="center">
   <img src="./assets/gif/BBT.gif" alt="Big Bang Theory Giffy" height="300px">
