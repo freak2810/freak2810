@@ -46,21 +46,12 @@
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManikanth2810&layout=compact&title_color=e2f3f5&bg_color=0e153a&text_color=e2f3f5)](https://github.com/AdityaManikanth2810?tab=repositories)
 
-<!-- <p align="center">
-
-  <img align="center" alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaManikanth2810&show_icons=true&bg_color=0e153a&title_color=e2f3f5&text_color=e2f3f5&icon_color=e2f3f5" />
-
-###
-
-  <img align="center" alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManikanth2810&layout=compact&title_color=e2f3f5&bg_color=0e153a&text_color=e2f3f5" />
-
-</p> -->
-
 ---
 
 ## Recent/ Ongoing Courses:
 
 - [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
+- [Machine Learning in Python by Nu'man Amri Maliky (Udemy)][ml-udemy]
 - [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
 - [Full-Stack Web Development with React Specialization (Coursera)][react-fullstack-coursera]
 
@@ -76,6 +67,7 @@
 
 </p>
 
+[ml-udemy]:https://www.udemy.com/course/machinelearning/
 [nodejs-udemy]: https://www.udemy.com/course/nodejs-the-complete-guide/
 [javascript-youtube]: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 [react-fullstack-coursera]: https://www.coursera.org/specializations/full-stack-react
