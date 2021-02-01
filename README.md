@@ -51,10 +51,10 @@
 
 ## Recent/ Ongoing Courses:
 
+- [Learn NextJS by Lee Robinson (Youtube)][nextjs-youtube]
 - [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
 - [Machine Learning in Python by Nu'man Amri Maliky (Udemy)][ml-udemy]
 - [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
-- [Full-Stack Web Development with React Specialization (Coursera)][react-fullstack-coursera]
 
 ## Connect with me:
 <p align="center">
@@ -68,10 +68,10 @@
 
 </p>
 
+[nextjs-youtube]:https://www.youtube.com/playlist?list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR
 [ml-udemy]:https://www.udemy.com/course/machinelearning/
 [nodejs-udemy]: https://www.udemy.com/course/nodejs-the-complete-guide/
 [javascript-youtube]: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
-[react-fullstack-coursera]: https://www.coursera.org/specializations/full-stack-react
 [gmail-id]: mailto:adityamanikanthrao@gmail.com
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
 [twitter-link]: https://twitter.com/rao_manikanth
