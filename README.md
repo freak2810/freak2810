@@ -26,6 +26,7 @@
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/next.JS%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
