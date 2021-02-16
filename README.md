@@ -51,7 +51,7 @@
 
 ## Recent/ Ongoing Courses:
 
-- [Learn NextJS by Lee Robinson (Youtube)][nextjs-youtube]
+- [NextJS Crash Course 2021 by Traversy Media (Youtube)][nextjs-youtube]
 - [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
 - [Machine Learning in Python by Nu'man Amri Maliky (Udemy)][ml-udemy]
 - [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
@@ -68,7 +68,7 @@
 
 </p>
 
-[nextjs-youtube]:https://www.youtube.com/playlist?list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR
+[nextjs-youtube]:https://youtu.be/mTz0GXj8NN0
 [ml-udemy]:https://www.udemy.com/course/machinelearning/
 [nodejs-udemy]: https://www.udemy.com/course/nodejs-the-complete-guide/
 [javascript-youtube]: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
