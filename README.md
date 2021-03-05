@@ -7,13 +7,15 @@
 
 ## I'm a Student and a Developer!!
 
-- 👨🏼‍🎓 I am in the final year of B.E Computer Science and Engineering in MVSR Engineering College.
+- 👨🏼‍🎓 I am in the final year of B.E Computer Science and Engineering in MVSR Engineering College, Hyderabad.
 
 - 👨🏽‍💻 I write in JavaScript.
 
 - 💻 Looking for a job as a Front End/ Full Stack Developer.
 
 - 🧑‍🤝‍🧑 I love connecting with different people❤️.
+
+- 👨🏻‍🎤 Music is love!! and so is [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw?autoplay=true).
 
 
 ## Tools and Technologies:
@@ -51,6 +53,7 @@
 
 ## Recent/ Ongoing Courses:
 
+- [React Redux Tutorial by Codevolution (Youtube)][react-redux]
 - [NextJS Crash Course 2021 by Traversy Media (Youtube)][nextjs-youtube]
 - [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
 - [Machine Learning in Python by Nu'man Amri Maliky (Udemy)][ml-udemy]
@@ -68,6 +71,7 @@
 
 </p>
 
+[react-redux]:https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 [nextjs-youtube]:https://youtu.be/mTz0GXj8NN0
 [ml-udemy]:https://www.udemy.com/course/machinelearning/
 [nodejs-udemy]: https://www.udemy.com/course/nodejs-the-complete-guide/
