@@ -7,16 +7,17 @@
 
 ## I'm a Student and a Developer!!
 
-- 👨🏼‍🎓 I am in the final year of B.E Computer Science and Engineering in MVSR Engineering College, Hyderabad.
+- 👨🏼‍🎓 In the final year of B.E Computer Science and Engineering in MVSR Engineering College, Hyderabad.
 
-- 👨🏽‍💻 I write in JavaScript.
+- 👨🏽‍💻 JavaScript Guy.
 
-- 💻 Looking for a job as a Front End/ Full Stack Developer.
+- 💻 Looking for a job as a Full Stack Developer.
 
-- 🧑‍🤝‍🧑 I love connecting with different people❤️.
+- 🧑‍🤝‍🧑 Love connecting with different people❤️.
 
 - 👨🏻‍🎤 Music is love!! and so is [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw?autoplay=true).
 
+---
 
 ## Tools and Technologies:
 
@@ -59,6 +60,8 @@
 - [Machine Learning in Python by Nu'man Amri Maliky (Udemy)][ml-udemy]
 - [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
 
+---
+
 ## Connect with me:
 <p align="center">
   
@@ -93,3 +96,5 @@ Since you have made it till the end (almost), why dont you show me some love by
 - 🖥️ - Offer some work maybe.
 - 📣 - Follow me on Github and give a star to my projects that you liked.
 - 🤝🏼 - DM me on LinkedIn to connect or ... just Email.
+
+---
