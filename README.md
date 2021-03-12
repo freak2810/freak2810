@@ -4,7 +4,6 @@
   <img src="./assets/gif/BBT.gif" alt="Big Bang Theory Giffy" height="300px">
 </p>
 
-
 ## I'm a Student and a Developer!!
 
 - 👨🏼‍🎓 In the final year of B.E Computer Science and Engineering in MVSR Engineering College, Hyderabad.
@@ -54,15 +53,16 @@
 
 ## Recent/ Ongoing Courses:
 
+- [The Modern GraphQL Bootcamp (with Node.js and Apollo) by Andrew Mead (Udemy)][graphql]
 - [React Redux Tutorial by Codevolution (Youtube)][react-redux]
 - [NextJS Crash Course 2021 by Traversy Media (Youtube)][nextjs-youtube]
 - [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
 - [Machine Learning in Python by Nu'man Amri Maliky (Udemy)][ml-udemy]
-- [NodeJS - The Complete Guide by Maximilian Schwarzmüller (Udemy)][nodejs-udemy]
 
 ---
 
 ## Connect with me:
+
 <p align="center">
   
 [<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail-id]
@@ -74,10 +74,10 @@
 
 </p>
 
-[react-redux]:https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
-[nextjs-youtube]:https://youtu.be/mTz0GXj8NN0
-[ml-udemy]:https://www.udemy.com/course/machinelearning/
-[nodejs-udemy]: https://www.udemy.com/course/nodejs-the-complete-guide/
+[graphql]: https://www.udemy.com/course/graphql-bootcamp/
+[react-redux]: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+[nextjs-youtube]: https://youtu.be/mTz0GXj8NN0
+[ml-udemy]: https://www.udemy.com/course/machinelearning/
 [javascript-youtube]: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 [gmail-id]: mailto:adityamanikanthrao@gmail.com
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
