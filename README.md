@@ -53,11 +53,11 @@
 
 ## Recent/ Ongoing Courses:
 
+- [Learn PostgreSQL Tutorial - Full Course for Beginners by freeCodeCamp.org (Youtube)][postgres]
 - [The Modern GraphQL Bootcamp (with Node.js and Apollo) by Andrew Mead (Udemy)][graphql]
 - [React Redux Tutorial by Codevolution (Youtube)][react-redux]
 - [NextJS Crash Course 2021 by Traversy Media (Youtube)][nextjs-youtube]
 - [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
-- [Machine Learning in Python by Nu'man Amri Maliky (Udemy)][ml-udemy]
 
 ---
 
@@ -74,10 +74,10 @@
 
 </p>
 
+[postgres]: https://www.youtube.com/watch?v=qw--VYLpxG4&t=2748s
 [graphql]: https://www.udemy.com/course/graphql-bootcamp/
 [react-redux]: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 [nextjs-youtube]: https://youtu.be/mTz0GXj8NN0
-[ml-udemy]: https://www.udemy.com/course/machinelearning/
 [javascript-youtube]: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 [gmail-id]: mailto:adityamanikanthrao@gmail.com
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
