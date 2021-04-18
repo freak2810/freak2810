@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻 JavaScript Guy.
 
-- 💻 Looking for a job as a Full Stack Developer.
+- 💻 Full Stack Engineer at [MockTheta, Inc.](https://mocktheta.co/)
 
 - 🧑‍🤝‍🧑 Love connecting with different people❤️.
 
