@@ -56,7 +56,7 @@
 
 ## Recent/ Ongoing Courses:
 
-- [Learn PostgreSQL Tutorial - Full Course for Beginners by freeCodeCamp.org (Youtube)][postgres]
+- [Docker and Kubernetes - Full Course for Beginners by freeCodeCamp.org (Youtube)][docker-kubernetes]
 - [The Modern GraphQL Bootcamp (with Node.js and Apollo) by Andrew Mead (Udemy)][graphql]
 - [React Redux Tutorial by Codevolution (Youtube)][react-redux]
 - [NextJS Crash Course 2021 by Traversy Media (Youtube)][nextjs-youtube]
@@ -72,12 +72,10 @@
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin-link]
 [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter-link]
 [<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram-link]
-[<img src="https://img.shields.io/badge/geeksforgeeks-5FB709?style=for-the-badge&logo=GeeksForGeeks&logoColor=white">][gfg-link]
-[<img src="https://img.shields.io/badge/hackerank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">][hackerank-link]
 
 </p>
 
-[postgres]: https://www.youtube.com/watch?v=qw--VYLpxG4&t=2748s
+[docker-kubernetes]: https://www.youtube.com/watch?v=Wf2eSG3owoA&t=12854s
 [graphql]: https://www.udemy.com/course/graphql-bootcamp/
 [react-redux]: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 [nextjs-youtube]: https://youtu.be/mTz0GXj8NN0
@@ -86,8 +84,6 @@
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
 [twitter-link]: https://twitter.com/rao_manikanth
 [linkedin-link]: https://www.linkedin.com/in/aditya-manikanth-rao-11874819a/
-[gfg-link]: https://auth.geeksforgeeks.org/user/freak2810/practice/
-[hackerank-link]: https://www.hackerrank.com/freak2810
 
 ---
 
