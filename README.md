@@ -43,9 +43,9 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
@@ -59,11 +59,15 @@
 
 ## Recent/ Ongoing Courses:
 
+- [Microservices with Node JS and React (Udemy)](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+- [System Design Primer (Youtube)](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 - [Docker and Kubernetes - Full Course for Beginners by freeCodeCamp.org (Youtube)][docker-kubernetes]
 - [The Modern GraphQL Bootcamp (with Node.js and Apollo) by Andrew Mead (Udemy)][graphql]
 - [React Redux Tutorial by Codevolution (Youtube)][react-redux]
-- [NextJS Crash Course 2021 by Traversy Media (Youtube)][nextjs-youtube]
-- [Namaste 🙏 JavaScript by Akshay Saini (Youtube)][javascript-youtube]
+
+[docker-kubernetes]: https://www.youtube.com/watch?v=Wf2eSG3owoA&t=12854s
+[graphql]: https://www.udemy.com/course/graphql-bootcamp/
+[react-redux]: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 
 ---
 
@@ -78,11 +82,6 @@
 
 </p>
 
-[docker-kubernetes]: https://www.youtube.com/watch?v=Wf2eSG3owoA&t=12854s
-[graphql]: https://www.udemy.com/course/graphql-bootcamp/
-[react-redux]: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
-[nextjs-youtube]: https://youtu.be/mTz0GXj8NN0
-[javascript-youtube]: https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 [gmail-id]: mailto:adityamanikanthrao@gmail.com
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
 [twitter-link]: https://twitter.com/rao_manikanth
