@@ -60,7 +60,7 @@
 ## Recent/ Ongoing Courses:
 
 - [Microservices with Node JS and React by Stephen Grider (Udemy)](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-- [System Design Primer (Youtube)](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+- [System Design Primer by sudoCODE (Youtube)](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 - [Docker and Kubernetes - Full Course for Beginners by freeCodeCamp.org (Youtube)][docker-kubernetes]
 - [React Redux Tutorial by Codevolution (Youtube)][react-redux]
 
