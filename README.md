@@ -59,14 +59,12 @@
 
 ## Recent/ Ongoing Courses:
 
-- [Microservices with Node JS and React (Udemy)](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+- [Microservices with Node JS and React by Stephen Grider (Udemy)](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 - [System Design Primer (Youtube)](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 - [Docker and Kubernetes - Full Course for Beginners by freeCodeCamp.org (Youtube)][docker-kubernetes]
-- [The Modern GraphQL Bootcamp (with Node.js and Apollo) by Andrew Mead (Udemy)][graphql]
 - [React Redux Tutorial by Codevolution (Youtube)][react-redux]
 
 [docker-kubernetes]: https://www.youtube.com/watch?v=Wf2eSG3owoA&t=12854s
-[graphql]: https://www.udemy.com/course/graphql-bootcamp/
 [react-redux]: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 
 ---
