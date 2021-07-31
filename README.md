@@ -4,9 +4,9 @@
   <img src="./assets/gif/BBT.gif" alt="Big Bang Theory Giffy" height="300px">
 </p>
 
-## I'm a Student and a Developer!!
+## I'm a Full Stack Developer!!
 
-- 👨🏼‍🎓 In the final year of B.E Computer Science and Engineering in MVSR Engineering College, Hyderabad.
+- 👨🏼‍🎓 Graduate from MVSR Engineering College, Hyderabad in B.E Computer Science
 
 - 👨🏽‍💻 JavaScript Guy.
 
@@ -15,6 +15,8 @@
 - 🧑‍🤝‍🧑 Love connecting with different people❤️.
 
 - 👨🏻‍🎤 Music is love!! and so is [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw?autoplay=true).
+
+- Enjoy learning and knowing new technologies and stuff😎.
 
 ---
 
@@ -71,14 +73,10 @@
 
 ## Connect with me:
 
-<p align="center">
-  
 [<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail-id]
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin-link]
 [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter-link]
 [<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram-link]
-
-</p>
 
 [gmail-id]: mailto:adityamanikanthrao@gmail.com
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
