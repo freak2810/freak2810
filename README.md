@@ -6,7 +6,7 @@
 
 ## I'm a Full Stack Developer!!
 
-- 👨🏼‍🎓 Graduate from MVSR Engineering College, Hyderabad in B.E Computer Science
+- 👨🏼‍🎓 Graduate from MVSR Engineering College, Hyderabad in B.E Computer Science.
 
 - 👨🏽‍💻 JavaScript Guy.
 
