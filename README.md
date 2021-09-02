@@ -87,7 +87,7 @@
 
 ## 🐾 Next Steps:
 
-Since you have made it till the end (almost), why dont you show me some love by
+Since you have made it till the end (almost), why don't you show me some love by
 
 - 👨🏼‍🏫 - Suggest or Mentor me so I can get better at what I do.
 - 🖥️ - Offer some work maybe.
