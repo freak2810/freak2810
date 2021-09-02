@@ -59,15 +59,15 @@
 
 ---
 
-## Recent/ Ongoing Courses:
+## Technologies/ Concepts that I am currently learning:
 
-- [Microservices with Node JS and React by Stephen Grider (Udemy)](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-- [System Design Primer by sudoCODE (Youtube)](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
-- [Docker and Kubernetes - Full Course for Beginners by freeCodeCamp.org (Youtube)][docker-kubernetes]
-- [React Redux Tutorial by Codevolution (Youtube)][react-redux]
+- Go Lang
 
-[docker-kubernetes]: https://www.youtube.com/watch?v=Wf2eSG3owoA&t=12854s
-[react-redux]: https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+- GraphQL
+
+- System Design
+
+- Micro-Services
 
 ---
 
