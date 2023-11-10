@@ -1,7 +1,7 @@
 [<img alt="Aditya" src="./assets/img/aditya.png" />](https://aditya2810.me)
 
 <p align="center">
-  <img src="./assets/gif/BBT.gif" alt="Big Bang Theory Giffy" height="300px">
+  <img src="./assets/gif/BBT.gif" alt="Big Bang Theory Giffy" width="350px">
 </p>
 
 ## I'm a Full Stack Developer!!
