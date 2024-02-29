@@ -8,7 +8,7 @@
 
 - 👨🏼‍🎓 Graduate from MVSR Engineering College, Hyderabad in B.E Computer Science.
 
-- 💻 Full Stack Engineer at [MockTheta, Inc.](https://mocktheta.co/)
+- 💻 Principal Software Engineer at [Cognochain](https://www.cognochain.com)
 
 - 🧑‍🤝‍🧑 Love connecting with different people ♥️.
 
