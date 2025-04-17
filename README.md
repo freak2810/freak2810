@@ -8,11 +8,11 @@
 
 - 👨🏼‍🎓 Graduate from MVSR Engineering College, Hyderabad in B.E Computer Science.
 
-- 💻 Principal Software Engineer at [Cognochain](https://www.cognochain.com)
+- 💻 Lead Engineer at [Profolo](https://profolo.com)
 
 - 🧑‍🤝‍🧑 Love connecting with different people ♥️.
 
-- 👨🏻‍🎤 I love Music!! and [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw?autoplay=true).
+- 👨🏻‍🎤 I love Music!! and [Arijit Singh]([https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw?autoplay=true](https://music.apple.com/us/artist/arijit-singh/484568188)).
 
 - Enjoy learning and knowing new technologies and stuff 😎.
 
@@ -83,7 +83,7 @@
 
 [gmail-id]: mailto:adityamanikanthrao@gmail.com
 [instagram-link]: https://www.instagram.com/aditya_theawsm1/
-[linkedin-link]: https://www.linkedin.com/in/aditya-manikanth-rao-11874819a/
+[linkedin-link]: https://www.linkedin.com/in/aditya-manikanth-rao/
 
 ---
 
