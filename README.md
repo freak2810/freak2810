@@ -4,17 +4,12 @@
   <img src="./assets/gif/BBT.gif" alt="Big Bang Theory Giffy" width="350px">
 </p>
 
-## I'm a Full Stack Developer!!
+## I’m a  Full Stack & AI Engineer!
 
-- 👨🏼‍🎓 Graduate from MVSR Engineering College, Hyderabad in B.E Computer Science.
-
-- 💻 Lead Engineer at [Profolo](https://profolo.com)
-
-- 🧑‍🤝‍🧑 Love connecting with different people ♥️.
-
-- 👨🏻‍🎤 I love Music!! and [Arijit Singh]([https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw?autoplay=true](https://music.apple.com/us/artist/arijit-singh/484568188)).
-
-- Enjoy learning and knowing new technologies and stuff 😎.
+- 🎓 Computer Science Grad from MVSR Engineering College, Hyderabad
+- 🔍 Passionate about System Design, LLMs, and agentic AI frameworks and ofcourse... code.
+- 🎶 Big fan of [Arijit Singh](https://music.apple.com/us/artist/arijit-singh/484568188) and Hindi/Telugu playlists
+- 🤝 Love collaborating, learning, and mentoring wherever I can
 
 ---
 
@@ -51,6 +46,8 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/qdrant-%235D3FD3.svg?style=for-the-badge&logo=qdrant&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Cloud & DevOps:
 
@@ -68,10 +65,11 @@
 
 ---
 
-## Technologies/ Concepts that I am currently learning:
+## 🔍 Areas I’m Exploring
 
-- DevOps
-- Remix
+- LangChain, Qdrant, and vector-based search
+- LLM orchestration and prompt engineering
+- DevX tools and AI-powered backend automation
 
 ---
 
